@@ -1,10 +1,10 @@
-- 👋  Welcome!
+ 👋  Welcome!
 
-- Junior Java Trainee. 
-    - I share my experience creating dynamic web applications,
+I am a Junior Java Trainee.
+- I share my experience creating dynamic web applications,
       websites, and other projects I've participated in over the years.
       
-- I’m currently learning
+- Currently learning
   - JAVA and JS:
     - https://www.upacademy.pt/
     - https://altar.io
