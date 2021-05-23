@@ -1,11 +1,11 @@
 - 👋  Welcome!
   I’m @maisafari
 
-- 👀 Junior Java Trainee. 
+- Junior Java Trainee. 
     - I share my experience creating dynamic web applications,
       websites, and other projects i've participated in over the years.
       
-- 🌱 I’m currently learning
+- I’m currently learning
   - JAVA and JS:  https://www.upacademy.pt/
                 https://altar.io
   - C at https:   //www.42lisboa.com/
