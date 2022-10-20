@@ -1,15 +1,22 @@
  👋  Welcome!
 
-I am a Junior Java Trainee.
-- Here to share my experience creating dynamic web applications,
-      websites, and other projects I've participated in over the years.
+I am a Cloud Software Developer
       
-- Currently learning
-  - JAVA and JS:
-    - https://www.upacademy.pt/
-    - https://altar.io
-  - C at https:
-    - www.42lisboa.com/
+- Languages/Technologies
+  - SCRUM
+  - Gira
+  - Miro
+  - Git
+  - SQL
+  - Guerkin
+  - Angular
+  - selenium
+  - Cucumber
+  - Html/Css
+  - SAP CAP
+  - JavaScript
+  - JAVA
+  - C
 
 - 📫 How to reach me
   - Linkedin:   www.linkedin.com/in/mariza-buntubwimana
