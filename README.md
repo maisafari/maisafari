@@ -4,8 +4,9 @@ I am a Cloud Software Developer
       
 - Languages/Technologies
   - SCRUM
-  - Gira
+  - Jira
   - Miro
+  - Figma
   - Git
   - SQL
   - Guerkin
@@ -16,6 +17,8 @@ I am a Cloud Software Developer
   - SAP CAP
   - JavaScript
   - JAVA
+  - Python
+  - Outsystems
   - C
 
 - 📫 How to reach me
